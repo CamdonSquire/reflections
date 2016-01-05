@@ -19,6 +19,8 @@ when you want to branch off with experimental programming features, or changes t
 
 How do the diagrams help you visualize the branch structure?
 
+they illistrate the linear hierarchical frame work and how to tranherse different branch nodes
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
