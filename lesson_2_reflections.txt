@@ -28,3 +28,5 @@ because they new branch contains all the differences from the preceding nodes; h
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+The automatic merge checks for conflicts and prevents you from going further as a security feature.  where as always merge fucks stuff up.
