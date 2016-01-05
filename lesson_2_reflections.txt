@@ -24,5 +24,7 @@ they illistrate the linear hierarchical frame work and how to tranherse differen
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+because they new branch contains all the differences from the preceding nodes; heirarchical.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
