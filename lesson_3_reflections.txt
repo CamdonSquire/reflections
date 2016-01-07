@@ -1,6 +1,6 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
-    Fill in your answer here
+A remote repository would be for all to see; possibly a final and finished version.  where as a local copy would be something that you are working on that hasnt been finished as of yet.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
