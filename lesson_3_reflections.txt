@@ -5,7 +5,8 @@ A remote repository would be for all to see; possibly a final and finished versi
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+With manual deploys, you can create an immediate deployment of any branch at any time; if you want to control when changes are deployed.
+With automatic deploys, you build and deploy all pushes you have developed. Some times; i am guessing, this process could occur before any final checks have been completed. Pushing inaccurate, erroneous information.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
