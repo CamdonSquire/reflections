@@ -11,7 +11,20 @@ With automatic deploys, you build and deploy all pushes you have developed. Some
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+FORK
+To fork a project you would clone the remote repository to create a copy of it, then do your own work in your local repository and commit changes.
+
+CLONE
+Clones a repository into a newly created directory, creates remote-tracking branches and creates and checks out an initial branch that is forked from the cloned repository’s currently active branch.
+
+BRANCH
+Within a repository you have branches, which are effectively forks within your own repository. Your branches will have an ancestor commit in your repository, and will diverge from that commit with your changes. Branches let you work on multiple disparate features at once.
+
+WHEN Would You Use Them
+You would use a fork when you want to reproduce somebody elses/or your own repository onto Github.
+A clone would create a local copy of a repository on your machine from Github.
+You use branches when you want too produce an experimental off shoot versions off the main core program features.
+
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
